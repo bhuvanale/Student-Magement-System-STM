@@ -6,6 +6,7 @@ A Student Management System (SMS) is a web-based application designed to efficie
 Features
 
 🎓 Student Registration & Profile Management
+
 •	Add new students with details like name, roll number, email, phone number, branch, program, year, and semester.
 
 •	Edit and update student details as required.
