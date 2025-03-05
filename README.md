@@ -64,9 +64,13 @@ student-management-system/
 
 ________________________________________
 Future Enhancements
+
 •	🛢 Database Integration: Connect with Firebase or MySQL for data persistence.
+
 •	📊 Dashboard Analytics: Implement student performance graphs.
+
 •	✨ Dark Mode Support: Add a toggle for light/dark theme.
+
 •	📧 Email Notifications: Notify students about attendance or grades.
 
 This project is licensed under the MIT License – feel free to modify and use it for your educational projects.
